@@ -15,4 +15,4 @@ Down below, you can have a look of what the game is like:
 
 The visual and sound fx in the game are pretty simple, but they work effectively. When dying, you'll hear a specific sound, and when you reach the green platform successfully making it to the next stage you'll listen to another sound. 
 
-Although a warning message might appear when downloading the game, the download and installation of the game are safe.
+Although a warning message might appear when downloading the game, the download and installation of the game are completely safe.
