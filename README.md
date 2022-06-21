@@ -1,4 +1,4 @@
-# My-Game - JUMPER
+# My Game Project - JUMPER
 
 This project is nothing but a game called JUMPER that I created when I was starting at Unity 3D in 2020. The download is safe, and the project is simple but also fun.
 
