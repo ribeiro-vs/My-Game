@@ -1,4 +1,4 @@
-# c-sharp-unity-platformer - JUMPER
+JUMPER
 
 JUMPER is a simple yet fun platformer game that I developed when I first started learning Unity 3D in 2020. It was created using C# and object-oriented programming principles, making it a great introduction to game development.
 
